@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Op watter app koop Melissa die meeste klere?",
+    "choice1": "Takealot",
+    "choice2": "Shein",
+    "choice3": "Superbalist",
+    "choice4": "Melissa kort nie ‘n app om nog klere te koop wat sy nie nodig het nie.",
+    "answer": 4
+  },
+  {
+    "question": "Wat gebeur as Melissa weer ‘n fliek kyk wat sy al voorheen gesien het?",
+    "choice1": "Sy kyk die hele fliek.",
+    "choice2": "Sy kyk amper die hele fliek en scroll so af en toe deur Instagram.",
+    "choice3": "Sy hou op kyk net voor die einde want dis vervelig.",
+    "choice4": "Sy smeek na 10 minute vir Jacques se aandag wat actually besig is om die fliek te geniet.",
+    "answer": 4
+  },
+  {
+    "question": "Kies die scenario wat die beste pas nadat Jacques gesê het hy wil gesond begin eet:",
+    "choice1": "Melissa eet gesond saam Jacques (haha lol).",
+    "choice2": "Melissa stel ‘n eetplan op vir haar en Jacques.",
+    "choice3": "Melissa vermy alle ongesonde kos om vir Jacques by te staan.",
+    "choice4": "“Soek jy roomys liefie?”",
+    "answer": 4
+  },
+  {
+    "question": "Hoeveel Melissa’s vat dit om Jacques se monitor af te sit nadat sy hom gebruik het?",
+    "choice1": "Melissa sit altyd sy monitor af nadat sy hom gebruik het (haha lol).",
+    "choice2": "2 Melissa’s",
+    "choice3": "3 Melissa’s",
+    "choice4": "Wetenskaplikes sê Jacques se monitor is al aan sedert 3200 B.C.",
+    "answer": 4
+  }
+]
